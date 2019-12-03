@@ -1,0 +1,10 @@
+name: introduction-to-topic-modeling-textxd-2019
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - gensim
+  - scikit-learn
+  - pyldavis
+
